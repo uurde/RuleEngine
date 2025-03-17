@@ -1,0 +1,36 @@
+@model List<User>
+
+@{
+    ViewBag.Title = "Users";
+}
+
+<table class="table table-striped table-bordered table-hover" id="dataTable" style="width:100%">
+    <thead>
+    <th>Full Name</th>
+    <th>Team</th>
+    <th>BirthDay</th>
+    <th>Registiration Date</th>
+    </thead>
+    <tbody>
+    @foreach (var user in Model)
+    {
+        <tr>
+            <td>@user.FirstName @user.LastName</td>
+            <td>@user.SupportedTeam</td>
+            <td>@user.DateOfBirthday.ToString("d")</td>
+            <td>@user.DateOfRegistiration.ToString("d")</td>
+        </tr>
+    }
+    </tbody>
+</table>
+
+@section Scripts
+{
+    <script>
+        $(document).ready(function (){
+            $('#dataTable').DataTable({
+                "pageLenght": 25
+            });
+        });
+    </script>
+}

@@ -93,3 +93,4 @@
 /Users/uurde/Dev/Solutions/dotNet/RuleEngine/RuleEngine.First/obj/Debug/net9.0/RuleEngine.First.pdb
 /Users/uurde/Dev/Solutions/dotNet/RuleEngine/RuleEngine.First/obj/Debug/net9.0/RuleEngine.First.genruntimeconfig.cache
 /Users/uurde/Dev/Solutions/dotNet/RuleEngine/RuleEngine.First/obj/Debug/net9.0/ref/RuleEngine.First.dll
+/Users/uurde/Dev/Solutions/dotNet/RuleEngine/RuleEngine.First/obj/Debug/net9.0/RuleEngine.First.sourcelink.json

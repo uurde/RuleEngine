@@ -4,5 +4,12 @@
     &lt;TestId&gt;xUnit::4244E1FC-548A-47F0-B353-377F6F35CA27::net9.0::RuleEngine.First.DiscountCalculatorTest.Returns0ForBasicCustomer&lt;/TestId&gt;
     &lt;TestId&gt;xUnit::4244E1FC-548A-47F0-B353-377F6F35CA27::net9.0::RuleEngine.First.DiscountCalculatorTest.Returns5ForCustomersOver65&lt;/TestId&gt;
     &lt;TestId&gt;xUnit::4244E1FC-548A-47F0-B353-377F6F35CA27::net9.0::RuleEngine.First.DiscountCalculatorTest.Returns15ForCustomerFirstPurchase&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::4244E1FC-548A-47F0-B353-377F6F35CA27::net9.0::RuleEngine.First.DiscountCalculatorTest.Returns10ForCustomerVeteran&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::4244E1FC-548A-47F0-B353-377F6F35CA27::net9.0::RuleEngine.First.DiscountCalculatorTest.ReturnsCorrentLoyaltyDisccout&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::4244E1FC-548A-47F0-B353-377F6F35CA27::net9.0::RuleEngine.First.DiscountCalculatorTest.ReturnsCorrentLoyaltyDiscout&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::4244E1FC-548A-47F0-B353-377F6F35CA27::net9.0::RuleEngine.First.DiscountCalculatorTest.ReturnsCorrentLoyaltyDiscoutWithBirthday&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::4244E1FC-548A-47F0-B353-377F6F35CA27::net9.0::RuleEngine.First.DiscountCalculatorTest.ReturnsVeteransDiscout1And2YearLoyalty&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::4244E1FC-548A-47F0-B353-377F6F35CA27::net9.0::RuleEngine.First.DiscountCalculatorTest.ReturnsVeteransDiscout1And2YearLoyaltyOnBirthday&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::4244E1FC-548A-47F0-B353-377F6F35CA27::net9.0::RuleEngine.First.DiscountCalculatorTest.Returns10ForCustomerSecondPurchaseOnBirthday&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
